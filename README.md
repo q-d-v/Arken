@@ -8,5 +8,5 @@ Arken is a game where a white square (named "Thing", great name, I know) recieve
 I'm joking. I just don't think it's the time to publish the game to itch. The game doesn't even have a PROPER story yet. Maybe in the future.
 
 # Technical Info
-Made with Unity
+Made with Unity;
 CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike)
